@@ -1,0 +1,29 @@
+{
+  "epochs_trained": 100,
+  "total_params": 77959,
+  "final_metrics": {
+    "loss_train": 0.00500101875513792,
+    "loss_val": 0.004250903148204088,
+    "mae_train": 0.0547211728990078,
+    "mae_val": 0.05008712783455849
+  },
+  "architecture": {
+    "input_shape": [
+      null,
+      9
+    ],
+    "output_shape": [
+      null,
+      7
+    ],
+    "bottles": [
+      "Sugar",
+      "Salt",
+      "Lemon",
+      "Soda",
+      "Mint",
+      "Ginger",
+      "Masala"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+============================================================
+CHUDAI PROJECT - SUMMARY REPORT
+============================================================
+
+MODEL 1: Age & Mood Detection CNN
+------------------------------------------------------------
+Epochs Trained: 50
+Total Parameters: 2,703,624
+
+Final Metrics:
+  Age MAE - Train: 1.77, Val: 8.51
+  Mood Accuracy - Train: 57.31%, Val: 57.34%
+
+MODEL 2: Drink Suggestion MLP
+------------------------------------------------------------
+Epochs Trained: 100
+Total Parameters: 77,959
+
+Final Metrics:
+  Loss (MSE) - Train: 0.0050, Val: 0.0043
+  MAE - Train: 0.0547, Val: 0.0501
+
+FEEDBACK LEARNING
+------------------------------------------------------------
+Total Feedback Samples: 1
+Average Rating: 8.00/10
+Rating Range: 8-8
+
+============================================================

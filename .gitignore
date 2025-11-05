@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Models (too large for GitHub)
+models/*.h5
+models/*.keras
+models/*.pkl
+models/*.joblib
+
+# Generated training history (graphs, images)
+models/training_history/*.png
+models/training_history/*.jpg
+models/training_history/*.csv
+
+# Optional scripts (development/presentation)
+# Keep optional/ folder but it's optional for core functionality
+
+# User feedback data (privacy)
+data/feedback.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.backup
+
+# Data files (keep structure, but ignore large datasets)
+# Keep: data/fer2013/, data/utk/, data/drinks.csv, data/recipes.json
+# But ignore if they're too large
+

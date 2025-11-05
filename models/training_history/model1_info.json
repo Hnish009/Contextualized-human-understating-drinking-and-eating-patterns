@@ -1,0 +1,24 @@
+{
+  "epochs_trained": 50,
+  "total_params": 2703624,
+  "final_metrics": {
+    "age_mae_train": 1.77373468875885,
+    "age_mae_val": 8.508851051330566,
+    "mood_acc_train": 0.5731189846992493,
+    "mood_acc_val": 0.5733602046966553,
+    "mood_loss_train": 1.1038293838500977,
+    "mood_loss_val": 1.1544560194015503
+  },
+  "architecture": {
+    "input_shape": [
+      null,
+      64,
+      64,
+      1
+    ],
+    "outputs": [
+      "age_output",
+      "mood_output"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "drinks": {
+    "Classic Lemonade": {
+      "Sugar": 30,
+      "Salt": 10,
+      "Lemon": 25,
+      "Soda": 20,
+      "Mint": 5,
+      "Ginger": 0,
+      "Masala": 10,
+      "description": "Balanced sweet-sour classic"
+    },
+    "Mint Lemon Cooler": {
+      "Sugar": 25,
+      "Salt": 5,
+      "Lemon": 20,
+      "Soda": 25,
+      "Mint": 20,
+      "Ginger": 0,
+      "Masala": 5,
+      "description": "Fresh lemon-mint soda"
+    },
+    "Ginger Lemon Sparkler": {
+      "Sugar": 20,
+      "Salt": 5,
+      "Lemon": 25,
+      "Soda": 30,
+      "Mint": 0,
+      "Ginger": 20,
+      "Masala": 0,
+      "description": "Fizzy lemon with ginger punch"
+    },
+    "Salty Lemon Fizz": {
+      "Sugar": 10,
+      "Salt": 25,
+      "Lemon": 20,
+      "Soda": 25,
+      "Mint": 5,
+      "Ginger": 5,
+      "Masala": 10,
+      "description": "Tangy and salty refreshment"
+    },
+    "Minty Ginger Punch": {
+      "Sugar": 15,
+      "Salt": 5,
+      "Lemon": 15,
+      "Soda": 20,
+      "Mint": 25,
+      "Ginger": 20,
+      "Masala": 0,
+      "description": "Strong ginger-mint blend"
+    },
+    "Sweet Lemon Delight": {
+      "Sugar": 40,
+      "Salt": 5,
+      "Lemon": 25,
+      "Soda": 15,
+      "Mint": 5,
+      "Ginger": 0,
+      "Masala": 10,
+      "description": "Sweet-focused lemon soda"
+    },
+    "Tangy Masala Lemon": {
+      "Sugar": 20,
+      "Salt": 10,
+      "Lemon": 20,
+      "Soda": 20,
+      "Mint": 5,
+      "Ginger": 5,
+      "Masala": 20,
+      "description": "Chatpata masala-style soda"
+    },
+    "Mint Salt Cooler": {
+      "Sugar": 10,
+      "Salt": 20,
+      "Lemon": 15,
+      "Soda": 20,
+      "Mint": 25,
+      "Ginger": 5,
+      "Masala": 5,
+      "description": "Salted mint-lemon combination"
+    },
+    "Ginger Mint Twist": {
+      "Sugar": 20,
+      "Salt": 10,
+      "Lemon": 20,
+      "Soda": 20,
+      "Mint": 15,
+      "Ginger": 15,
+      "Masala": 0,
+      "description": "Spicy ginger-mint harmony"
+    },
+    "Cool Fusion Lemon Mix": {
+      "Sugar": 25,
+      "Salt": 10,
+      "Lemon": 25,
+      "Soda": 20,
+      "Mint": 10,
+      "Ginger": 5,
+      "Masala": 5,
+      "description": "Mild balance of all ingredients"
+    }
+  },
+  "bottle_order": ["Sugar", "Salt", "Lemon", "Soda", "Mint", "Ginger", "Masala"]
+}
+
