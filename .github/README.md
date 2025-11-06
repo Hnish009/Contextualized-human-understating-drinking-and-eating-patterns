@@ -82,9 +82,6 @@ python run_project.py
 
 ## 📝 License
 
-[Your License Here]
+Metalicense
 
-## 👥 Contributors
-
-[Your Name/Team]
 
