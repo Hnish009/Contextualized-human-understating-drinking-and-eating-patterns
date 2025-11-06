@@ -3,7 +3,7 @@ Quick script to check training progress while Model 1 is training
 Run this in a separate terminal while training is happening
 """
 
-import csv
+import csv 
 import os
 from pathlib import Path
 from datetime import datetime
