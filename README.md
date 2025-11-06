@@ -1,4 +1,4 @@
-# Chudai: Contextualized Human Understanding for Drinks and Eating Pattern
+# Contextualized Human Understanding for Drinks and Eating Pattern
 
 An AI-powered drink suggestion system that detects a person's age and mood from their face, then suggests a personalized drink ratio.
 
@@ -15,7 +15,7 @@ An AI-powered drink suggestion system that detects a person's age and mood from 
 ## 📁 Project Structure
 
 ```
-chudai/
+project/
 ├── data/
 │   ├── fer2013/          # FER2013 emotion dataset (you need to download)
 │   ├── utk/              # UTKFace age dataset (you need to download)
