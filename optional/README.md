@@ -1,4 +1,4 @@
-# Optional Scripts
+# Optional Scripts 
 
 These scripts are useful for development and presentation but **not required** for core functionality.
 
