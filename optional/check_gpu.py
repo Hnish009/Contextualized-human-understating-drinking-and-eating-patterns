@@ -1,6 +1,6 @@
 """
 Quick script to check if TensorFlow is using GPU or CPU
-"""
+""" 
 
 import tensorflow as tf
 import sys
