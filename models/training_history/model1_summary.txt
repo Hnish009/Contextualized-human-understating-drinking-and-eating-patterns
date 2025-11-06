@@ -74,3 +74,4 @@ Model: "age_mood_detector"
  Trainable params: 2,701,640 (10.31 MB)
  Non-trainable params: 1,984 (7.75 KB)
  Optimizer params: 5,403,282 (20.61 MB)
+
