@@ -1,7 +1,4 @@
-"""
-Monitor training progress while Model 1 is training
-Shows latest metrics, GPU usage, and training status
-"""
+
 
 import os
 import time
