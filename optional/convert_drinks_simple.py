@@ -5,6 +5,7 @@ Simple direct converter - handles the exact format in drinks_raw.txt
 import re
 from pathlib import Path
 
+
 MOOD_MAP = {
     "happiness": "happy", "happy": "happy",
     "sadness": "sad", "sad": "sad",
