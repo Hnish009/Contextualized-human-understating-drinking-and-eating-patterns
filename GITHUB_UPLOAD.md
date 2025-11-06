@@ -56,10 +56,10 @@ git init
 git add .
 
 # Commit
-git commit -m "Initial commit: Chudai project"
+git commit -m "Initial commit:  project"
 
 # Add remote (replace with your repo URL)
-git remote add origin https://github.com/yourusername/chudai.git
+git remote add origin https://github.com/yourusername/cd.git
 
 # Push
 git push -u origin main
