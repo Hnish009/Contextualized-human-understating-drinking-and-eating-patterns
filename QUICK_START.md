@@ -1,4 +1,4 @@
-# 🚀 Quick Start Guide - Chudai Project
+# 🚀 Quick Start Guide -  Project
 
 ## Step-by-Step Setup (For Beginners)
 
@@ -16,7 +16,7 @@ Should show Python 3.8, 3.9, or 3.10. If not, download from python.org
 
 Navigate to your project folder:
 ```bash
-cd E:\chudai
+cd E:\
 ```
 
 Install all required packages:
@@ -33,12 +33,12 @@ pip install -r requirements.txt
 #### A. FER2013 Dataset (for mood detection):
 1. Go to: https://www.kaggle.com/datasets/msambare/fer2013
 2. Download `fer2013.csv`
-3. Place it in: `E:\chudai\data\fer2013\fer2013.csv`
+3. Place it in: `E:\\data\fer2013\fer2013.csv`
 
 #### B. UTKFace Dataset (for age detection):
 1. Go to: https://susanqq.github.io/UTKFace/
 2. Download images (you can use a subset - 1000-5000 images is enough)
-3. Place all `.jpg` files in: `E:\chudai\data\utk\`
+3. Place all `.jpg` files in: `E:\\data\utk\`
 
 #### C. Your Custom Drink Dataset:
 1. Open `data/drinks_template.csv` as a reference
