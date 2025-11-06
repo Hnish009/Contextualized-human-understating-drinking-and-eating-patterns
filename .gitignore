@@ -20,7 +20,7 @@ sdist/
 var/
 wheels/
 *.egg-info/
-.installed.cfg
+.installed.cfg 
 *.egg
 
 # Models (too large for GitHub)
