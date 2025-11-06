@@ -1,7 +1,4 @@
-"""
-Main application for Chudai project
-Real-time face detection, age/mood prediction, drink suggestion, and feedback collection
-"""
+
 
 import cv2
 import numpy as np
@@ -129,7 +126,7 @@ def predict_drink(model, gender, age, mood_one_hot):
 def main():
     """Main application loop"""
     print("=" * 60)
-    print("Chudai: Contextualized Human Understanding for Drinks")
+    print(" : Contextualized Human Understanding for Drinks")
     print("=" * 60)
     
     # Load models
@@ -197,7 +194,7 @@ def main():
         cv2.putText(frame, "Press 'c' to capture | 'g' to toggle gender | 'q' to quit",
                    (10, frame.shape[0] - 20), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 0), 1)
         
-        cv2.imshow('Chudai - Drink Suggestion System', frame)
+        cv2.imshow('  - Drink Suggestion System', frame)
         
         # Handle keyboard input
         key = cv2.waitKey(1) & 0xFF
