@@ -1,4 +1,4 @@
-# Chudai: Contextualized Human Understanding for Drinks and Eating Pattern
+# Contextualized Human Understanding for Drinks and Eating Pattern
 
 An AI-powered drink suggestion system that detects a person's age and mood from their face, then suggests a personalized drink ratio.
 
