@@ -15,7 +15,7 @@ An AI-powered drink suggestion system that detects a person's age and mood from 
 ## 📁 Project Structure
 
 ```
-chudai/
+Project/
 ├── data/
 │   ├── fer2013/          # FER2013 emotion dataset (download separately)
 │   ├── utk/              # UTKFace age dataset (download separately)
