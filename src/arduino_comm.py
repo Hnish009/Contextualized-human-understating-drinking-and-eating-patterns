@@ -3,6 +3,7 @@ Arduino communication module
 Placeholder for serial communication with Arduino
 """
 
+
 try:
     import serial
     SERIAL_AVAILABLE = True
