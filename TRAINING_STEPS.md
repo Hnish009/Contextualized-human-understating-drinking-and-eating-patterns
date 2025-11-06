@@ -1,7 +1,7 @@
 # Training Steps - Quick Guide
 
 ## Step 1: Convert Your Drink Data
-
+ 
 Since you already have the data in `data/drinks_raw.txt`, you need to convert it to CSV format.
 
 **Option A: Manual conversion (Easiest)**
