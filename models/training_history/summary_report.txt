@@ -1,5 +1,5 @@
 ============================================================
-CHUDAI PROJECT - SUMMARY REPORT
+PROJECT - SUMMARY REPORT
 ============================================================
 
 MODEL 1: Age & Mood Detection CNN
