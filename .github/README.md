@@ -2,17 +2,17 @@
 
 An AI-powered drink suggestion system that detects a person's age and mood from their face, then suggests a personalized drink ratio.
 
-## 🎯 Project Overview
+## Project Overview
 
 **Goal**: Just like your mom cooks food by seeing your face and your mood lightens up, our AI tells you a drink to drink!
 
 **Working Flow**:
-1. 📷 Image capture → Detect person's mood and age
-2. 🥤 Suggest user a drink ratio (7 flavored liquids)
-3. 🔧 Machine with 7 pumps mixes the drink
-4. ⭐ User rates (1-10) → System learns and improves
+1. Image capture → Detect person's mood and age
+2. Suggest user a drink ratio (7 flavored liquids)
+3. Machine with 7 pumps mixes the drink
+4. User rates (1-10) → System learns and improves
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Project/
@@ -37,7 +37,7 @@ Project/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install Dependencies
 
@@ -67,7 +67,7 @@ python src/train_model2.py
 python run_project.py
 ```
 
-## 🎮 Usage
+## Usage
 
 1. Position your face in front of camera
 2. Press `c` to capture → System detects age and mood
@@ -75,12 +75,12 @@ python run_project.py
 4. Rate the drink (1-10) → Feedback saved automatically
 5. System fine-tunes after every 10 ratings
 
-## 📊 Models
+## Models
 
 - **Model 1**: CNN with dual outputs (age regression + mood classification)
 - **Model 2**: MLP for drink suggestion with feedback learning
 
-## 📝 License
+## License
 
 Metalicense
 
